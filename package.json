@@ -1,0 +1,7 @@
+{
+  "name": "hello",
+  "dependencies": {
+      "express": "latest",
+      "web3": "latest"
+  }
+}
